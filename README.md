@@ -17,7 +17,7 @@ to attach to different surfaces and use the grapple to influence their movement.
 Implemented the player character and movement logic in C++.
 
 ### Player Input
-Implemented player input and control through a custom Player Controller.
+Implemented player input and control like grapple and detaching graple.
 
 ## Engine / Tools
 
